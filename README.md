@@ -1,6 +1,7 @@
 ###  Hello, I'm Anirudh Rajhgopalann 👋
 
 🤖 Machine Learning Engineer & Data Scientist with 3+ years of experience
+
 🧠 Passionate about AI and its potential to transform industries
 
 ## What I do
