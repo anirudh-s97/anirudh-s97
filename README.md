@@ -4,13 +4,15 @@
 
 🧠 Passionate about AI and its potential to transform industries
 
+
+<img align="centre" height="150" src="https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71"  />
+
+
 ## What I do
 - Design and implement machine learning algorithms.
 - Develop AI-powered solutions for real-world problems.
 - Collaborate with cross-functional teams to drive data-driven decision making.
 - 👯 I’m looking to collaborate on: Computer Vision, Deep learning and NLP tasks.
-
-![image](https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71)
 
 
 <br>
