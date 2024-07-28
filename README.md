@@ -5,7 +5,7 @@
 🧠 Passionate about AI and its potential to transform industries
 
 
-<img align="centre" height="500" width=500 src="https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71"  />
+<img align="centre" height="400" width=500 src="https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71"  />
 
 
 ## What I do
