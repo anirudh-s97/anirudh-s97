@@ -10,6 +10,9 @@
 - Collaborate with cross-functional teams to drive data-driven decision making.
 - 👯 I’m looking to collaborate on: Computer Vision, Deep learning and NLP tasks.
 
+![image](https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71)
+
+
 <br>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anirudh-s97&show_icons=true&include_all_commits=true&theme=graywhite" />
