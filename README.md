@@ -9,7 +9,6 @@
 
 
 ## What I do
-- Design and implement machine learning algorithms.
 - Develop AI-powered solutions for real-world problems.
 - Collaborate with cross-functional teams to drive data-driven decision making.
 - 👯 I’m looking to collaborate on: Computer Vision, Deep learning and NLP tasks.
