@@ -3,7 +3,7 @@
 🤖 An Aspiring Data Scientist & Machine Learning Engineer & from India 
 -  I have 3-4 years of experience in Data Sciece and Machine Learning
 
-- 🔭 I’m currently exploring MLOPS, Transformers and [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and exploring Prompt Engineering Tips and Tricks from [Learn Prompting](https://learnprompting.org/) and the [Prompting Guide](https://www.promptingguide.ai/) as well as courses from [ActiveLoop](https://learn.activeloop.ai/)
+- 🔭 I’m currently focusing MLOPS, Transformers and [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and exploring Prompt Engineering Tips and Tricks from [Learn Prompting](https://learnprompting.org/) and the [Prompting Guide](https://www.promptingguide.ai/) as well as courses from [ActiveLoop](https://learn.activeloop.ai/)
 - 🌱 I’m currently learning Machine Learning Techniques using [PyTorch](http://github.com/pytorch/pytorch/) and [TensorFlow](https://github.com/tensorflow/tensorflow) supplemented by the [FastAI Course](https://course.fast.ai/).
 - 👯 I’m looking to collaborate on: Computer Vision, Deep learning and NLP tasks.
 
