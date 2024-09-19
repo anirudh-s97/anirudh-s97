@@ -1,6 +1,6 @@
 ###  Hi There, I'm Anirudh Rajhgopalann 👋
 
-🤖 An Aspiring Data Scientist & Machine Learning Engineer & Data Scientist from India 
+🤖 An Aspiring Data Scientist & Machine Learning Engineer & from India 
 -  I have 3-4 years of experience in Data Sciece and Machine Learning
 
 - 🔭 I’m currently exploring MLOPS, Transformers and [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and exploring Prompt Engineering Tips and Tricks from [Learn Prompting](https://learnprompting.org/) and the [Prompting Guide](https://www.promptingguide.ai/) as well as courses from [ActiveLoop](https://learn.activeloop.ai/)
