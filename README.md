@@ -1,18 +1,13 @@
-###  Hello, I'm Anirudh Rajhgopalann 👋
+###  Hi There, I'm Anirudh Rajhgopalann 👋
 
-🤖 Machine Learning Engineer & Data Scientist with 3+ years of experience
+🤖 An Aspiring Data Scientist & Machine Learning Engineer & Data Scientist from India 
+-  I have 3-4 years of experience in Data Sciece and Machine Learning
 
-🧠 Passionate about AI and its potential to transform industries
-
-
-<img align="centre" height="400" width=500 src="https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71"  />
-
-
-## What I do
-- Develop AI-powered solutions for real-world problems.
-- Collaborate with cross-functional teams to drive data-driven decision making.
+- 🔭 I’m currently exploring MLOPS, Transformers and [Large Language Models](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and exploring Prompt Engineering Tips and Tricks from [Learn Prompting](https://learnprompting.org/) and the [Prompting Guide](https://www.promptingguide.ai/) as well as courses from [ActiveLoop](https://learn.activeloop.ai/)
+- 🌱 I’m currently learning Machine Learning Techniques using [PyTorch](http://github.com/pytorch/pytorch/) and [TensorFlow](https://github.com/tensorflow/tensorflow) supplemented by the [FastAI Course](https://course.fast.ai/).
 - 👯 I’m looking to collaborate on: Computer Vision, Deep learning and NLP tasks.
 
+<img align="centre" height="400" width=600 src="https://github.com/user-attachments/assets/3e613ddf-f16b-4339-8227-a86f4640bd71"  />
 
 <br>
 <div>
